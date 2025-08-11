@@ -1,5 +1,5 @@
 # PID-controller
-This Project yields from my Physics Bachelors-Thesis done at Ruhr-Universität Bochum where I coded a PID-controller to regulate Temperature cryostate.
+This Project yields from my Physics Bachelors-Thesis done at Ruhr-Universität Bochum, where I coded a PID-controller to regulate Temperature in a  cryostate.
 
 The main code is written for a certain circuit, wich was also build by me. The PID-class however is usuable for any case, where a PID-controller is needed.
 This means that estimated parameters and the general calculation need to be adjusted depending on the system it runs on.
